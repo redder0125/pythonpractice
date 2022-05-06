@@ -1,6 +1,4 @@
-# python practice
-
-## 필독사항(KR)
+# 필독사항(KR)
 
 이 페이지는 오직 연습작 업로드를 위해 만들어졌습니다. <br>
 참고 자료가 있는 코드의 경우 참고 자료의 저자가 요구하는 라이선스 조건을 따릅니다.<br>
@@ -8,7 +6,7 @@
 
 CC0 라이선스: https://creativecommons.org/publicdomain/zero/1.0/deed.ko
 
-## Read Me (EN)
+# Read Me (EN)
 
 This page was created only for uploading my practice work. <br>
 Code with references is subject to the license terms required by the author of the references.<br>
