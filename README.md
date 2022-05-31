@@ -11,3 +11,5 @@
 This page was repositoried commite my python-practice-works.
 
 I made it majory inspirated **1 minute Python** by Nadocording, and **Informatics textbook**.
+
+1 minute Python: https://www.youtube.com/playlist?list=PLMsa_0kAjjrcxiSJnHNfzBN71D3zpYtkX
