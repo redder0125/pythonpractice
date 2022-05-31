@@ -15,6 +15,6 @@ This page was repositoried commite my python-practice-works.
 
 ### Insp
 
-I made it majory inspirated **1 minute Python** by Nadocording, and **Informatics textbook**.
+I made it majory inspirated **1 minute Python** by Nadocoding, and **Informatics textbook**.
 
 1 minute Python: https://www.youtube.com/playlist?list=PLMsa_0kAjjrcxiSJnHNfzBN71D3zpYtkX
