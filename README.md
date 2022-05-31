@@ -10,4 +10,4 @@
 
 This page was repositoried commite my python-practice-works.
 
-I made it majory inspirated **1 minute Python** by Nadocording, and **textbook of information-subject**.
+I made it majory inspirated **1 minute Python** by Nadocording, and **Informatics textbook**.
