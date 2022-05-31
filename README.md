@@ -1,15 +1,13 @@
 ## 필독사항(KR)
 
-이 페이지는 오직 연습작 업로드를 위해 만들어졌습니다. <br>
-참고 자료가 있는 코드의 경우 참고 자료의 저자가 요구하는 라이선스 조건을 따릅니다.<br>
-참고 자료가 없는 경우에는 cc0 라이선스가 적용됩니다.
+파이썬 연습작을 보관하기 위해 만든 저장소입니다.
 
-CC0 라이선스: https://creativecommons.org/publicdomain/zero/1.0/deed.ko
+주로 나도코딩 님의 **1분 파이썬** 영상과 **정보 교과서**에 있는 내용을 참고하여 작성합니다.
+
+1분 파이썬: https://www.youtube.com/playlist?list=PLMsa_0kAjjrcxiSJnHNfzBN71D3zpYtkX
 
 ## Read Me (EN)
 
-This page was created only for uploading my practice work. <br>
-Code with references is subject to the license terms required by the author of the references.<br>
-If I do not have a reference, the cc0 license applies.
+This page was repositoried commite my python-practice-works.
 
-CC0 license: https://creativecommons.org/publicdomain/zero/1.0/deed.en
+I made it majory inspirated **1min Python** by Nadocording, and **textbook of information subject**.
