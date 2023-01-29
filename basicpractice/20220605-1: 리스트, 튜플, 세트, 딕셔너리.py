@@ -9,7 +9,7 @@ print (your_list[1])
 print (your_list[2])
 
 #Tuple, 소괄호를 이용한다
-your_tuple = ("장기","쇼기","체스") #이름이 왜 your_tuple인지는 
+your_tuple = ("장기","쇼기","체스") #이름이 왜 your_tuple인지는 모른다.
 
 #값 찾아내기(복수)
 print (your_tuple[0:2])
