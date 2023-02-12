@@ -1,7 +1,6 @@
 """
 refer
 
-https://wonhwa.tistory.com/42
 http://pythonstudy.xyz/python/article/120-Tkinter-%EC%86%8C%EA%B0%9C
 """
 from tkinter import *
